@@ -1,8 +1,4 @@
-import requests, json
-
-class Node:
-    pass
-
+import map
 
 def main():
     pass
